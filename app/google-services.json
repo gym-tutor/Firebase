@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340817455042",
+    "firebase_url": "https://missyogavideo.firebaseio.com",
+    "project_id": "missyogavideo",
+    "storage_bucket": "missyogavideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340817455042:android:108dc31c9e032751fb985b",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340817455042-7g04mroqhpnk63hf4cl18ajknq9u0pqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRXaZWAmw-_fE6Pk_hBmPY-SfGdVg1EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340817455042-7g04mroqhpnk63hf4cl18ajknq9u0pqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
